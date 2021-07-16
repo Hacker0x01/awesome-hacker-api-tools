@@ -1,7 +1,7 @@
 # HackerOne Hacker API tools
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of Hacker API tools. Get started yourself [here](https://api.hackerone.com/getting-started-hacker-api/#getting-started-hacker-api).
+A collection of Hacker API tools utilizing the [HackerOne API](https://api.hackerone.com). Get started yourself [here](https://api.hackerone.com/getting-started-hacker-api/#getting-started-hacker-api).
 
 ## Contributing
 
