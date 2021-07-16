@@ -1,4 +1,12 @@
-# HackerOne Hacker API projects
+# HackerOne Hacker API tools
+
+A collection of Hacker API tools. Get started yourself [here](https://api.hackerone.com/getting-started-hacker-api/#getting-started-hacker-api).
+
+## Contributing
+
+Sharing, suggestions and contributions are always welcome!
+
+## Tools
 
 - BBRF
   - https://gist.github.com/honoki/e2f6b8877f4bcc102ef949dd57d48e39
@@ -11,3 +19,4 @@
   - https://github.com/xpl0ited1/h1Bot
 - Inscope
   - https://github.com/michael1026/inscope
+
