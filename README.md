@@ -21,6 +21,5 @@ Sharing, suggestions and contributions are always welcome!
 - [hackerone_programs.py](https://gist.github.com/thiezn/eeb78dcdc3902cdb2f33f9050d6d429d) - _HackerOne API Program and scope retrieval_
 - [Inscope](https://github.com/michael1026/inscope) - _Fetch all in-scope URLs/domains from HackerOne programs._
 - [reNgine](https://github.com/yogeshojha/rengine) - _An automated reconnaissance framework for web applications with focus on highly configurable streamlined recon process via Engines_
-- [scriptsHackerOne](https://github.com/arthur4ires/scriptsHackerOne)
 
 
