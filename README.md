@@ -15,6 +15,7 @@ Sharing, suggestions and contributions are always welcome!
 - [bbscope](https://github.com/sw33tLie/bbscope/) - _The ultimate scope gathering tool for HackerOne, Bugcrowd, and Intigriti_
 - [Depcher](https://github.com/patuuh/Depcher) - _Tool to quickly analyze bug bounty platforms targets by checking their technology stack with wappalyzer and running Vulners scan to the found technologies_
 - [Earnings.rb](https://gitlab.com/dee-see/hackerone-scripts/-/blob/master/earnings.rb) - _This script pulls the total earned during the year and optionally dumps a CSV file; mostly used for tax reasons._
+- [h1_2_nuclei](https://github.com/vavkamil/h1_2_nuclei) - _Scan any HackerOne program with Nuclei_
 - [h1Bot](https://github.com/xpl0ited1/h1Bot) - _Hackerone Bot for automating reporting_
 - [HackerBot](https://github.com/Retr02332/HackerBot) - _Receive notifications about your reports and access your hackerone information quickly and easily._
 - [hackerone_programs.py](https://gist.github.com/thiezn/eeb78dcdc3902cdb2f33f9050d6d429d) - _HackerOne API Program and scope retrieval_
